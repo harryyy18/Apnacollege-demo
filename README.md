@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This is my demo repository
+This is my demo repository.
+Author- Harry Mistry
