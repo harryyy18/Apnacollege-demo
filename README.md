@@ -1,4 +1,5 @@
 # Apnacollege-demo
 This is my demo repository.
 <br>
-Author- Harry Mistry
+Author- Harry Jayesh Mistry
+
